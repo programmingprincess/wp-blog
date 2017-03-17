@@ -409,7 +409,7 @@ pre {
 }
 
 blockquote {
-	border: 0 solid #3e69dc;
+	border: 0 solid ff8a65;
     border-left-width: 2px;
 	font-size: 20px;
 	font-size: 1.25rem;
@@ -482,7 +482,7 @@ acronym {
 
 mark,
 ins {
-	background: #3e69dc;
+	background: ff8a65;
 	color: #fff;
 	padding: 0 0.25em;
 	text-decoration: none;
@@ -601,7 +601,7 @@ button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-	background: #3e69dc;
+	background: #ff8a65;
 	border: 0;
 	border-radius: 5em;
 	color: #fff;
@@ -632,7 +632,7 @@ input[type="submit"]:hover {
 .widget-footer-top-area input[type="reset"],
 .widget-footer-top-area input[type="submit"] {
 	background: #fff;
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .widget-footer-top-area button:focus,
@@ -713,7 +713,7 @@ input[type="color"]:focus,
 select:focus,
 textarea:focus {
 	background: transparent;
-	outline: 2px solid #3e69dc;
+	outline: 2px solid #ff8a65;
 }
 
 .widget-footer-top-area input[type="text"]:focus,
@@ -818,7 +818,7 @@ label {
 }
 
 .search-form .search-submit:before {
-	background: #3e69dc;
+	background: #ff8a65;
 	border-radius: 50%;
 	content: "\f400";
 	display: block;
@@ -924,7 +924,7 @@ label {
 }
 
 .site-title a {
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .site-title a:focus,
@@ -976,7 +976,7 @@ label {
 
 .site-info a:focus,
 .site-info a:hover {
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .sep {
@@ -998,7 +998,7 @@ label {
 }
 
 .widget-footer-top-area {
-	background: #3e69dc;
+	background: #ff8a65;
 }
 
 .widget-footer-bottom-area {
@@ -1026,7 +1026,7 @@ a:visited {
 
 a:focus,
 a:hover {
-	color: #3e69dc;
+	color: #ff8a65;
 	outline: 0;
 }
 
@@ -1093,7 +1093,7 @@ a:hover {
 .entry-footer a:hover,
 .entry-header a:focus,
 .entry-header a:hover {
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 /*--------------------------------------------------------------
@@ -1140,7 +1140,7 @@ a:hover {
 }
 
 .main-navigation .menu-item-has-children > a:after {
-	color: #3e69dc;
+	color: #ff8a65;
 	content: "\f431";
 	display: none;
 	font-family: Genericons;
@@ -1176,7 +1176,7 @@ a:hover {
 
 .main-navigation a:focus,
 .main-navigation a:hover {
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .main-navigation ul ul {
@@ -1187,7 +1187,7 @@ a:hover {
 .main-navigation .primary-menu .current_page_item > a,
 .main-navigation .primary-menu .current-menu-item > a,
 .main-navigation .primary-menu .current_page_ancestor > a {
-	border-color: #3e69dc;
+	border-color: #ff8a65;
 }
 
 /* Menu Toggle */
@@ -1317,7 +1317,7 @@ a:hover {
 
 .post-navigation a:focus .post-title,
 .post-navigation a:hover .post-title {
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .comment-navigation .nav-previous,
@@ -1338,7 +1338,7 @@ a:hover {
 .posts-navigation .nav-previous a:before,
 .comment-navigation .nav-next a:after,
 .posts-navigation .nav-next a:after {
-	color: #3e69dc;
+	color: #ff8a65;
 	content: "\f431";
 	display: inline-block;
 	font-family: Genericons;
@@ -1946,7 +1946,7 @@ a:hover {
 
 .featured-content .flex-control-paging a {
 	background: transparent;
-	border: 2px solid #3e69dc;
+	border: 2px solid #ff8a65;
 	border-radius: 50%;
 	color: transparent;
 	display: block;
@@ -1959,7 +1959,7 @@ a:hover {
 
 .featured-content .flex-control-paging a:hover,
 .featured-content .flex-control-paging .flex-active {
-	background: #3e69dc;
+	background: #ff8a65;
 }
 
 /*--------------------------------------------------------------
@@ -2084,7 +2084,7 @@ a:hover {
 }
 
 .comment-reply-link:after {
-	color: #3e69dc;
+	color: #ff8a65;
 	content: "\f432";
 	display: inline-block;
 	font-family: Genericons;
@@ -2303,7 +2303,7 @@ p video {
 
 .site .wp-playlist-light a.wp-playlist-caption:focus,
 .site .wp-playlist-light a.wp-playlist-caption:hover {
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .widget-footer-top-area .wp-playlist-light a.wp-playlist-caption:focus,
@@ -2384,7 +2384,7 @@ p video {
 }
 
 #infinite-footer {
-	background: #3e69dc;
+	background: #ff8a65;
 	opacity: 0.75;
 	z-index: 9999;
 }
@@ -2442,7 +2442,7 @@ p video {
 .site-main #infinite-handle span button,
 .site-main #infinite-handle span button:focus,
 .site-main #infinite-handle span button:hover {
-	background: #3e69dc;
+	background: #ff8a65;
 	border: 0;
 	border-radius: 5em;
 	color: #fff;
@@ -2478,7 +2478,7 @@ p video {
 
 .infinite-loader .spinner div {
 	background: currentcolor !important;
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 /* Infinite Wrap */
@@ -2855,7 +2855,7 @@ div#jp-relatedposts a:focus {
 .site .jetpack-social-navigation a:hover,
 .site .jetpack-social-navigation a:focus {
 	background: #f3f3f3;
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 /*--------------------------------------------------------------
@@ -2975,7 +2975,7 @@ div#jp-relatedposts a:focus {
 .widget_akismet_widget .a-stats a:focus,
 .widget_akismet_widget .a-stats a:hover {
 	background: transparent;
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .widget_akismet_widget .a-stats .count {
@@ -3060,7 +3060,7 @@ div#jp-relatedposts a:focus {
 .widget_goodreads div[class^="gr_custom_title"] a:hover,
 .widget_goodreads div[class^=gr_custom_container] a:focus,
 .widget_goodreads div[class^=gr_custom_container] a:hover {
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .widget-footer-top-area .widget_goodreads div[class^="gr_custom_title"] a:focus,
@@ -3256,7 +3256,7 @@ div#jp-relatedposts a:focus {
 .site .widget_wpcom_social_media_icons_widget a:hover,
 .site .widget_wpcom_social_media_icons_widget a:focus {
 	background: #f3f3f3;
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .widget-footer-top-area .widget_wpcom_social_media_icons_widget a:hover,
@@ -3307,7 +3307,7 @@ div#jp-relatedposts a:focus {
 ## Buttons
 --------------------------------------------------------------*/
 .button {
-	background: #3e69dc;
+	background: #ff8a65;
 	border: 0;
 	border-radius: 5em;
 	cursor: pointer;
@@ -3336,7 +3336,7 @@ div#jp-relatedposts a:focus {
 
 .button.minimal {
 	background: transparent;
-	color: #3e69dc;
+	color: #ff8a65;
 	position: relative;
 }
 
@@ -3354,7 +3354,7 @@ div#jp-relatedposts a:focus {
 
 .button.minimal:focus,
 .button.minimal:hover {
-	background: #3e69dc;
+	background: #ff8a65;
 	box-shadow: none;
 	color: #fff;
 }
@@ -3367,13 +3367,13 @@ div#jp-relatedposts a:focus {
 /* Featured Content, Panel Page Template & Widget Footer Top Area */
 .featured-content .hentry.has-post-thumbnail .button,
 .page-template-panel-page .hentry.has-post-thumbnail .button {
-	background: #3e69dc;
+	background: #ff8a65;
 	color: #fff;
 }
 
 .widget-footer-top-area .button {
 	background: #fff;
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .featured-content .hentry.has-post-thumbnail .button:focus,
@@ -3381,7 +3381,7 @@ div#jp-relatedposts a:focus {
 .page-template-panel-page .hentry.has-post-thumbnail .button:focus,
 .page-template-panel-page .hentry.has-post-thumbnail .button:hover {
 	background: #fff;
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 .widget-footer-top-area .button:focus,
@@ -3406,7 +3406,7 @@ div#jp-relatedposts a:focus {
 .featured-content .hentry.has-post-thumbnail .button.minimal:hover,
 .page-template-panel-page .hentry.has-post-thumbnail .button.minimal:focus,
 .page-template-panel-page .hentry.has-post-thumbnail .button.minimal:hover {
-	background: #3e69dc;
+	background: #ff8a65;
 	color: #fff;
 	text-shadow: none;
 }
@@ -3414,7 +3414,7 @@ div#jp-relatedposts a:focus {
 .widget-footer-top-area .button.minimal:focus,
 .widget-footer-top-area .button.minimal:hover {
 	background: #fff;
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 /* Main Menu */
@@ -3457,11 +3457,11 @@ div#jp-relatedposts a:focus {
 }
 
 .main-navigation .button.minimal a:focus {
-	background: #3e69dc;
+	background: #ff8a65;
 }
 
 .main-navigation .button.minimal a {
-	color: #3e69dc;
+	color: #ff8a65;
 }
 
 /*--------------------------------------------------------------
